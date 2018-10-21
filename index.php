@@ -16,7 +16,7 @@
 <link href='http://fonts.googleapis.com/css?family=Chewy' rel='stylesheet' type='text/css'>
 </head>
 <body>
-<div id="container">
+<div id="container" style="overflow: hidden;">
 <div class="row">
 <div class="col-md-6 col-md-offset-3 center">
 <h1 id="header" class="center white">Weather Scaper</h1>
