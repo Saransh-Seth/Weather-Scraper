@@ -61,7 +61,7 @@ $("#findMyWeather").click(function(event) {
 function( data ) {
 
 
-
+console.log(data);
 
  if (data=="") {
 
