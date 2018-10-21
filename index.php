@@ -24,7 +24,6 @@
 weather.</p>
 <form>
 <div class="input-group">
-<span class="glyphicon glyphicon-map-marker input-group-addon" aria-hidden="true"></span>
 <input type="text" class="form-control" name="city" id="city" placeholder="Eg.London, Paris, San Francisco..."/>
 </div>
 <button id="findMyWeather" class="btn btn-success btn-lg"><span class="glyphicon glyphicon-search" aria-hidden="true"></span> Find My Weather</button>
