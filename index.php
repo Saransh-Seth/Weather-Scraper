@@ -23,7 +23,7 @@
 <p id="leadText" class="lead center white">Enter your city below to get a 3 Day forecast for the
 weather.</p>
 <form>
-<div class="input-group">
+<div class="input-group col-md-12 col-sm-4">
 <input type="text" class="form-control" name="city" id="city" placeholder="Eg.London, Paris, San Francisco..."/>
 </div>
 <button id="findMyWeather" class="btn btn-success btn-lg"><span class="glyphicon glyphicon-search" aria-hidden="true"></span> Find My Weather</button>
