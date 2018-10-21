@@ -61,6 +61,7 @@ display:none;
 #header {
     font-family: 'Fontdiner Swanky', cursive;
     color: aliceblue !important;
+	text-shadow: 2px 2px #000;
 }
 #leadText {
 font-weight:strong;
@@ -68,6 +69,7 @@ font-size:1.3em;
 
 	font-family: 'Jura', sans-serif;
 color: aquamarine !important;
+	text-shadow: 2px 2px #000;
 
 }
 .footer{
@@ -77,4 +79,5 @@ text-align:center;
 #develop{
 font-size:1.8em;
 font-family: 'Chewy', cursive;
+	text-shadow: 2px 2px #000;
 }
